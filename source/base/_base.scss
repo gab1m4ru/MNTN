@@ -1,0 +1,32 @@
+body, html {
+  font-family: "Gilroy";
+  background-color: #0B1D26;
+  background-image: url("../img/bg/BG.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+
+  p {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.8;
+    }
+}
+
+.container--wide {
+  max-width: 1790px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.container--header {
+  max-width: 967px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.container {
+  max-width: 1492px;
+  padding: 0 15px;
+  margin: 0 auto;
+}

@@ -1,0 +1,46 @@
+.block__desc-body {
+  margin-top: 843px;
+}
+
+.block__desc {
+  position: relative;
+
+  display: flex;
+  column-gap: 114px;
+  align-items: center;
+}
+
+.num {
+  position: absolute;
+  font-weight: 700;
+  font-size: 240px;
+  opacity: .1;
+  margin-top: -100px;
+  margin-left: -150px;
+}
+
+.desc__info {
+  position: relative;
+  max-width: 632px;
+  padding-left: 150px;
+
+  p {
+  margin-bottom: 27px;
+  }
+}
+
+.desc__subtitle {
+  margin-bottom: 27px;
+}
+
+.desc__title {
+  font-family: $playfair;
+  font-weight: 400;
+  font-size: 64px;
+
+  margin-bottom: 27px;
+}
+
+.desc__btn {
+  color: $accent-color;
+}
