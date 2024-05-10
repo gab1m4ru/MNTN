@@ -1,10 +1,10 @@
 // BASE
-@import "./base/reset";
-@import "./base/base";
-@import "./base/vars";
+@import "./base/_reset";
+@import "./base/_base";
+@import "./base/_vars";
 
 // BLOCKS
-@import "./blocks/navigation";
-@import "./blocks/header";
-@import "./blocks/desc";
-@import "./blocks/footer";
+@import "./blocks/_navigation";
+@import "./blocks/_header";
+@import "./blocks/_desc";
+@import "./blocks/_footer";
